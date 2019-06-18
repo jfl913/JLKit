@@ -1,0 +1,6 @@
+framework module Pods_JLKit_Example {
+  umbrella header "Pods-JLKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
